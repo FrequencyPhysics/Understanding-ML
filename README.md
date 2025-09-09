@@ -50,7 +50,9 @@ Dot extension in vscode:
 <img width="571" height="114" alt="image" src="https://github.com/user-attachments/assets/629ebf8b-1bbc-430f-912d-306298eaf676" />
 
 After downloading the .dot file, run the following command in your terminal:
+
 ```dot -Tpng music-recommender.dot -o tree.png```
+
 This will generate a PNG image (tree.png) of the decision tree for easier visualization.
 
 <img width="349" height="368" alt="image" src="https://github.com/user-attachments/assets/421bc2a5-959d-4057-9952-a37c8f483358" />
